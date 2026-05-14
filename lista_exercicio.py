@@ -1,7 +1,7 @@
-print(" ================================")
+print("-" *40)
 print("Hello, World!")
-print(" ================================")
+
 
 frutas = ["maçã", "banana", "laranja", "uva"]
 print(frutas[1])  # Imprime "banana"
-print(" ================================" )
+print("-" *40)
